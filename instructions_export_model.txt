@@ -1,0 +1,3 @@
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/ssd_inception_v2_coco.config --trained_checkpoint_prefix training/model.ckpt-20000 --output_directory trained-inference-graphs/output_inference_graph_v1.pb
+
+

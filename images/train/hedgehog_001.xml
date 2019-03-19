@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>hedgehog (1)</filename>
+                                    <path>C:\Users\Luiz\Documents\GitHub\tensorflow\my_workspace\identify_mammals\mammals_output\JPEGImages\hedgehog_001.jpeg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>480</width>
+                                        <height>300</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>hedgehog</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>64.06759421198521</xmin>
+                                                <ymin>33.14889200889321</ymin>
+                                                <xmax>415.22279958916306</xmax>
+                                                <ymax>259.00739176346354</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>

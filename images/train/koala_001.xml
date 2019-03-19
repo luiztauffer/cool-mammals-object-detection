@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>coala_001</filename>
+                                    <path>C:\Users\Luiz\Downloads\coala _ Google Search_output\JPEGImages\coala_001.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>250</width>
+                                        <height>246</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>koala</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>24.92732304671278</xmin>
+                                                <ymin>10.548172599057423</ymin>
+                                                <xmax>225.59177994332046</xmax>
+                                                <ymax>238.45515457102624</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>

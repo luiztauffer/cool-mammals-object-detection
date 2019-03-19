@@ -1,0 +1,26 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>fox (1)</filename>
+                                    <path>C:\Users\Luiz\Documents\GitHub\tensorflow\my_workspace\identify_mammals\mammals_output\JPEGImages\fox_001.jpeg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>500</width>
+                                        <height>334</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented>
+                                    <object>
+                                            <name>fox</name>
+                                            <pose>Unspecified</pose>
+                                            <truncated>0</truncated>
+                                            <difficult>0</difficult>
+                                            <bndbox>
+                                                <xmin>90.70261660332605</xmin>
+                                                <ymin>76.63657057096943</ymin>
+                                                <xmax>225.6913023662352</xmax>
+                                                <ymax>305.9819481980989</ymax>
+                                            </bndbox>
+                                    </object>
+                                    </annotation>
