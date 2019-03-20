@@ -19,3 +19,11 @@ After a model is trained and the frozen graph is produced, the folder structure 
 ├── training
 (other files)
 ```
+
+Here's some nice examples of our cool mammals detection into action:
+
+![ex1](example_result_1.jpg)
+
+![ex2](example_result_2.jpg)
+
+![ex3](example_result_3.jpg)
