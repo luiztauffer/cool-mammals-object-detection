@@ -7,12 +7,15 @@ Datasets and trained models are usually large, so I decided to not upload them. 
 After a model is trained and the frozen graph is produced, the folder structure should look like this:
 
 ```
-- data
-- images
-  - test
-  - train
-- pre_trained_model
-- trained-inference-graphs
-- training
+.
+├── data
+├── images
+    ├── test
+    ├── train
+├── pre_trained_model
+├── trained-inference-graphs
+    ├── exported_graph_1
+    ├── exported_graph_2
+├── training
 (other files)
 ```
