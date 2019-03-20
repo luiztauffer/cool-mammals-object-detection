@@ -4,4 +4,5 @@ This is where the algorithm will "log" your model during the training process. I
 
 The training algorithm should populate this folder automatically and it will end up looking similar to this:
 
+
 ![content](training_folder_content.JPG)
