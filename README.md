@@ -4,6 +4,7 @@ A series of blog posts detailing it can be found at [Guacamole Data Science](htt
 
 After a model is trained and the frozen graph is produced, the folder structure should look like this:
 
+```
 - data
 - images
   - test
@@ -12,3 +13,4 @@ After a model is trained and the frozen graph is produced, the folder structure 
 - trained-inference-graphs
 - training
 (other files)
+```
